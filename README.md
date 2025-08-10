@@ -1,4 +1,4 @@
-# README: Sales Prediction using Python
+# README: Sales Prediction using Python 
 
 ## Author:Kalle Sucharitha
 
