@@ -1,6 +1,6 @@
 # README: Sales Prediction using Python
 
-## Author: Sucharitha
+## Author:Kalle Sucharitha
 
 ## Batch: July-August
 
